@@ -108,67 +108,6 @@
         "loving"
       ],
       "id": "10"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "11"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "dfsf",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "12"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "13"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "14"
-    },
-    {
-      "name": "Brandon",
-      "species": "Kangaroo",
-      "diet": "carnivore",
-      "personalityTraits": [],
-      "id": "15"
-    },
-    {
-      "name": "George",
-      "species": "Duck",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "16"
-    },
-    {
-      "name": "Thomas",
-      "species": "Cow",
-      "diet": "carnivore",
-      "personalityTraits": [
-        "zany"
-      ],
-      "id": "17"
     }
   ]
 }
