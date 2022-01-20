@@ -151,6 +151,24 @@
       "diet": "carnivore",
       "personalityTraits": [],
       "id": "15"
+    },
+    {
+      "name": "George",
+      "species": "Duck",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "Thomas",
+      "species": "Cow",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "17"
     }
   ]
 }
